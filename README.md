@@ -2,9 +2,7 @@
 
 A simple, scalable RESTful API for managing student data built with **Java Spring Boot** and **MySQL** (or H2).
 
-## 🚀 Project Status
 
-🔧 Currently under active development.
 
 ## 🛠 Tech Stack
 
